@@ -21,13 +21,14 @@
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-I build the unglamorous software that keeps physical goods moving — inventory
-sync, order routing, pick-and-pack flows, shipping labels, accounting hand-off.
-The kind of code where a rounding error becomes a real box on the wrong truck.
+Participating in the development of a software that keeps physical goods moving, 
+inventory sync, order routing, pick-and-pack flows, shipping labels, accounting 
+hand-off. The kind of code where a rounding error becomes a real box on the 
+wrong truck.
 
-Five years at [SKULabs](https://skulabs.com), a multichannel inventory, barcode,
-and shipping platform syncing orders and stock across dozens of sales channels
-and carriers. I came into engineering through four years of frontline support,
+Five years and couting at [SKULabs](https://skulabs.com), a multichannel inventory, 
+barcode, and shipping platform syncing orders and stock across dozens of sales 
+channels and carriers. I came into engineering through four years of frontline support,
 which shaped how I build: I've talked to the people hitting the bug.
 
 Most of what I ship lives in private repos, so the graph below is the honest
