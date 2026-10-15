@@ -6,21 +6,6 @@
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  P A C K I N G   S L I P                                    SKU: AJ-001 │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│  SHIP FROM                              SHIP TO                         │
-│  Aristides "AJ" Batista                 Warehouses everywhere           │
-│  Brazil  ·  EST-aligned hours           c/o @skulabs                    │
-│                                                                         │
-│  IN SERVICE SINCE ... Feb 2021          STATUS ......... FULFILLING     │
-│  CARRIER ............ Coffee, mostly    PRIORITY ....... Ship it today  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
 Participating in the development of a software that keeps physical goods moving, 
 inventory sync, order routing, pick-and-pack flows, shipping labels, accounting 
 hand-off. The kind of code where a rounding error becomes a real box on the 
